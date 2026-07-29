@@ -35,7 +35,7 @@ Completed the LetsDefend Monitoring Incident Response lab by monitoring security
 
 Monitored the SOC dashboard for active security alerts and identified a critical web attack requiring investigation.
 
-![Monitoring Dashboard](screenshots/01-LetsDefend-Monitoring-Dashboard.png)
+![Monitoring Dashboard](screenshots/01-Lets-Defend-Monitoring-Dashboard.png)
 
 ---
 
